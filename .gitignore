@@ -18,4 +18,6 @@ _products
 _freeze
 # ignore anything in the constructed data directory
 data/data_constructed/*
+data/data_raw/super_private_data.csv
 
+data/data_raw/usa_00102.dat.gz
